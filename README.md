@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Anderson;+and+my+nickname+is+%22Dr+robo%22!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Anderson;and+my+nickname+is+%22Dr+robo%22!)](https://git.io/typing-svg)
 
 ## A little more of my skills 
 <div>
