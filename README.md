@@ -7,7 +7,4 @@
 |<img width="400" src="https://github.com/AndersonPull/DrRobo.Init/blob/main/Resources/ImgsBanners/mockup.png">|<img width="400" src="https://raw.githubusercontent.com/AndersonPull/portfolio-anderson/main/Portfolio/.imagesREADME/Captura%20de%20Tela%202022-09-20%20às%2021.49.42.png">|<img width="200" src="https://github.com/SM4UG/GAME_Flappy_Dragon/blob/master/FlappyDragon/imageR/FDGif.gif">|
 
 ## A little more of my skills 
-<div>
-<a href="https://github.com/AndersonPull">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonPull&layout=compact&langs_count=7&theme=dracula"/>
-</div>
